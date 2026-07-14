@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "test",
-  "version": "2.2.0",
-  "release_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/tag/v2.2.0",
-  "download_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/download/v2.2.0/VRChat-Auto-Invite-V2-Setup.exe",
-  "sha256": "f0d86e07536cefb2645c93bc74b3a24fa3985ffd6c46466346ac7d597f3dc678",
-  "package_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/download/v2.2.0/VRChat-Auto-Invite-V2-portable.zip",
-  "package_sha256": "73948287b59102d51a5729d2d971ef7dc5ca6d40611e23c08a9e8e1cf12a0674",
-  "package_size": 62722274,
+  "version": "2.2.1",
+  "release_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/tag/v2.2.1",
+  "download_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/download/v2.2.1/VRChat-Auto-Invite-V2-Setup.exe",
+  "sha256": "871dffe3f37f83d5f0de126febb3dec00a1e540e40be60d02fd5ec18158eb9ec",
+  "package_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/download/v2.2.1/VRChat-Auto-Invite-V2-portable.zip",
+  "package_sha256": "8a77c8e34d68b25f4815e30596455dd66a06ad7689b79279540bf770b595ba6a",
+  "package_size": 62725052,
   "minimum_updater_version": "2.1.0",
   "require_authenticode": false,
-  "release_notes_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/tag/v2.2.0",
-  "published_at": "2026-07-14T22:38:44.4063310Z"
+  "release_notes_url": "https://github.com/RealNumNums/vrchat-auto-invite-updates/releases/tag/v2.2.1",
+  "published_at": "2026-07-14T23:45:54.4623763Z"
 }
