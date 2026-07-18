@@ -1,2 +1,3 @@
 # vrchat-auto-invite-updates
-Public signed releases and update metadata for VRChat Auto Invite V2.
+
+Public binary-only releases and checksum-verified update metadata for VRChat Auto Invite V2. Commercial source code and licensing secrets are never published here.
